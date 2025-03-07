@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtuelle Umgebung
+venv/
+ENV/
+env/
+
+# Umgebungsvariablen
+.env
+
+# Temporäre Dateien
+temp/
+
+# Eingabe- und Ausgabedaten
+input/
+output/
+edited/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+# IDE-spezifische Dateien
+.idea/
+.vscode/
+*.code-workspace
+
+# Spezifisch für dieses Projekt
+original_info.json
+edited_info.json
