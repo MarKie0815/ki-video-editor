@@ -1,0 +1,7 @@
+langchain==0.1.12
+langchain-community==0.0.38
+moviepy==1.0.3
+openai>=1.14.0
+pydub==0.25.1
+webrtcvad==2.0.10
+python-dotenv>=1.0.0
